@@ -61,6 +61,7 @@ while True:
 
 
 
+
 def send(StrCommand,IPAddress,PortNumber):
     for connection in Connections:
         add=connection.getsockname()[0]
