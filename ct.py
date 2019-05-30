@@ -1,5 +1,4 @@
 import Command
-
 import base64
 
 
